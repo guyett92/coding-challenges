@@ -10,3 +10,14 @@ During the software engineering immersive at General Assembly, we were tasked wi
 * Assume all parameters will be numbers.
 * If called with no arguments, return 0 (zero).
 * [addList](addList/script.js)
+## findMax
+* Write a recursive function that returns the max value in an array.
+* [findMax](findMax/script.js)
+## factorial
+* Write a recursive function that returns the factorial of a given number.
+* [factorial](factorial/script.js)
+## fibonacci
+* Write a function that returns the Nth number in the fibonacci sequence.
+* https://en.wikipedia.org/wiki/Fibonacci_number
+* For this function, the first two fibonacci numbers are 1 and 1.
+* [fibonacci](fibonacci/script.js)
