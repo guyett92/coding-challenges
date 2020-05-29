@@ -26,4 +26,4 @@ During the software engineering immersive at General Assembly, we were tasked wi
  * The first argument should be the dividend and the second argument should be the divisor.
  * If a 0 is passed in as the second argument you should return JavaScript's special numeric value: Infinity.
  * For extra fun, complete this challenge without using the modulus (%) operator.
- *[computeRemainder](computeRemainder/script.js)
+ * [computeRemainder](computeRemainder/script.js)
