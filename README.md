@@ -27,3 +27,7 @@ During the software engineering immersive at General Assembly, we were tasked wi
  * If a 0 is passed in as the second argument you should return JavaScript's special numeric value: Infinity.
  * For extra fun, complete this challenge without using the modulus (%) operator.
  * [computeRemainder](computeRemainder/script.js)
+ ## range
+ * Write a function called range that accepts two integers as arguments and returns an array of integers starting with the first argument up to one less than the second argument.
+ * The range function must be called with the first argument less than or equal to the second argument, otherwise return the string "First argument must be less than second".
+ * [range](range/script.js)
