@@ -31,3 +31,6 @@ During the software engineering immersive at General Assembly, we were tasked wi
  * Write a function called range that accepts two integers as arguments and returns an array of integers starting with the first argument up to one less than the second argument.
  * The range function must be called with the first argument less than or equal to the second argument, otherwise return the string "First argument must be less than second".
  * [range](range/script.js)
+ ## reverseUpcaseString
+ * Write a function called reverseUpcaseString that accepts a single string argument, then returns the string with its characters in reverse order and converts all characters to uppercase.
+ * [reverseUpcaseString](reverseUpcaseString/script.js)
