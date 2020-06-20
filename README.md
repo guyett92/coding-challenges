@@ -34,3 +34,9 @@ During the software engineering immersive at General Assembly, we were tasked wi
  ## reverseUpcaseString
  * Write a function called reverseUpcaseString that accepts a single string argument, then returns the string with its characters in reverse order and converts all characters to uppercase.
  * [reverseUpcaseString](reverseUpcaseString/script.js)
+## charCount
+* Write a function named charCount that accepts a single string argument and returns an object that represents the count of each character in the string.
+* The returned object should have keys that represent the character with its value set to the how many times the character appears in the string argument.
+* Upper and lower case characters should be counted separately.
+* Space characters should be counted too.
+* [charCount](charcount/script.js)
